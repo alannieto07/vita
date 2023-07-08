@@ -1,0 +1,55 @@
+body{
+    background-image: linear-gradient(rgba(5,7,12,0.75), rgba(5,7,12,0.75)),
+     url(../../..//main/resources/static.img/slide2.jpeg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#main{
+    padding-top: 25%;
+}
+
+#cover{
+    padding-right: 26%;
+}
+
+.footer{
+    padding-top: 110px;
+} 
+
+#v{ 
+    color:#F4B450 ;
+
+} 
+
+#i{ 
+    color: #89C9D6;
+    
+}
+
+#t{ 
+    color: #F4A9D1;
+ 
+}
+
+#a{ 
+    color: #F5877B;
+     
+} 
+
+#zen{ 
+    margin-left: 2px;
+    color:#D68F50 ;
+}
+
+#equipo,#Trabajamos{
+    color: #D68F50;
+} 
+
+#leermas{
+    background-color:#D68F50 ;
+}
+
+
