@@ -1,6 +1,6 @@
 # vita
 
--es una app para un cliente que tiene un centro de medico. 
+-Aplicación Web para un cliente que tiene un centro de medico. 
 
 -tecnologías  = html, css, bootstrap , java(poo) , springboot, mysql .
 
